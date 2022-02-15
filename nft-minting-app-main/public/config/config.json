@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1A26fD06B46Eb67750BBaDB75Ab61ca1C129c063",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1A26fD06B46Eb67750BBaDB75Ab61ca1C129c063",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Degen Sanctuary Pups",
+  "SYMBOL": "DSP",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/degensanctuarypups",
+  "SHOW_BACKGROUND": true
+}
